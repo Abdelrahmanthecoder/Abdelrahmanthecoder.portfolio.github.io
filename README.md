@@ -4,8 +4,7 @@
 <p align="center">My own personally coded portfolio!
 </p>
 
-
-## Link to my portfolio
+<h2 align="center">Link to my portfolio</h2>
 
 You can check out my portfolio by clicking [0](https://abdelrahmanthecoder.github.io/Abdelrahmanthecoder.portfolio.github.io/)!
 
