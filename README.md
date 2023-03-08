@@ -1,19 +1,15 @@
 # Abdelrahmanthecoder.portfolio.github.io
 
-<h2 align="center">My portfolio</h2>
+<h2 align="center">Portfolio</h2>
 
 <br/>
-<p align="center">The "new" snake game in town!
+<p align="center">My own personally coded portfolio!
 </p>
 
 
-## How start playing
+## Link to my portfolio
 
-To start playing **Znake** you can go to (https://abdelrahmanthecoder.github.io/Znake.github.io/)!
 
-## Issues
-
-You can gladly submit any issues or bugs with my project on the [issues page](https://github.com/Abdelrahmanthecoder/Znake-game/issues)!
 
 <div align="center">
   <a href="https://github.com/Abdelrahmanthecoder" style="text-decoration:none;">
